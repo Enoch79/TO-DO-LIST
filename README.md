@@ -1,4 +1,4 @@
-#TO DO LIST
+# TO DO LIST
 
 This is a To-do-list web application that allows users to add, delete, and number tasks. It is designed using HTML, CSS, and JavaScript. You can view the live demo of the project by visiting this link:https://enoch79.github.io/TO-DO-LIST/
 
