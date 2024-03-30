@@ -19,7 +19,7 @@ This is a To-do-list web application that allows users to add, delete, and numbe
 
 - `index.html`: The main HTML file containing the structure of the web page.
 - `style.css`: The CSS file containing the styles for the web page.
-- `smystyle.js`: The JavaScript file containing the functionality for adding and deleting tasks.
+- `mystyle.js`: The JavaScript file containing the functionality for adding and deleting tasks.
 
 - ## Licence
 
